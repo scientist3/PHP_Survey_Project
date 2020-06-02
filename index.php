@@ -15,7 +15,7 @@
   <div class="form-group">
     <label class="control-label" for="textinput">Matrikelnummer</label>
     <div class="input">
-    <input id="textinput" name="mnr_student" type="text" placeholder="MNR" class="form-control input-md">
+    <input id="textinput" name="mnr_student" type="text" placeholder="MNR" class="form-control input-md" />
     </div>
   </div>
 
